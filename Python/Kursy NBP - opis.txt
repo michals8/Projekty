@@ -1,1 +1,0 @@
-Jest to program, w ktorym uzytkownik wybiera waluty i zaznacza zakres dat, a nastepnie program pobiera srednie kursy walut za ten okres ze strony NBP i przedstawia je na wykresie. Dane mozna rowniez wyeksportowac do formatu CSV, TXT oraz XSLX.
